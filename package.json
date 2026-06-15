@@ -58,7 +58,7 @@
     "@types/assert": "1.5.11",
     "@types/chai": "4.3.20",
     "@types/lodash.get": "4.4.9",
-    "@types/mocha": "9.1.1",
+    "@types/mocha": "10.0.10",
     "@types/semver": "7.7.1",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
