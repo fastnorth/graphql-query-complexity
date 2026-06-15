@@ -51,6 +51,9 @@
   },
   "author": "Ivo Meißner",
   "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "@types/assert": "1.5.11",
     "@types/chai": "4.3.20",
