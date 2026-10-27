@@ -733,10 +733,10 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-graphql@16.14.0:
-  version "16.14.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.14.0.tgz#f1128a74b16a34d1245c8436bb07b488d87b83e1"
-  integrity sha512-BBvQ/406p+4CZbTpCbVPSxfzrZrbnuWSP1ELYgyS6B+hNeKzgrdB4JczCa5VZUBQrDa9hUngm0KnexY6pJRN5Q==
+graphql@16.14.2:
+  version "16.14.2"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.14.2.tgz#83faf25869e3df727cc855161db5da85b0e5b2c0"
+  integrity sha512-Chq1s4CY7jmh8gO2qvLIJyfCDIN+EHLFW/9iShnp1z8FjBQMoodWP1kDC36VAMXXIvAjj4ARa7ntfAV2BrjsbA==
 
 has-flag@^4.0.0:
   version "4.0.0"
